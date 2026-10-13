@@ -1,12 +1,9 @@
 # Resolved candidate set, NOT a claim of successful full Windows installation.
 # Install with: python -m pip install -r requirements/requirements.txt -c requirements/constraints-core.txt
-# Building Annoy on Windows requires MSVC; see doc/ENVIRONMENT.md.
 ragas==0.1.22
 langchain==0.2.17
 langchain-core==0.2.43
 langchain-community==0.2.19
 langchain-openai==0.1.25
-nemoguardrails==0.10.0
 openai==1.109.1
-annoy==1.17.3
 numpy==1.26.4
